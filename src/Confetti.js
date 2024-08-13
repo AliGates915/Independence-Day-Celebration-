@@ -45,6 +45,7 @@
                   />
                   <h1 className='textHero'>14th August</h1>
                   <h1 className='textComponent'>Happy Independence Day!</h1>
+                  <p>Develop by: Ali Gates✨</p>
                 </div>
               )}
             </div>
