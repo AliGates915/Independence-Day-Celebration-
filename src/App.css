@@ -29,6 +29,14 @@
   margin-top: 15%;
   text-shadow: 3px 3px 4px #697565; /* Add a subtle shadow */
 }
+.develop{
+  position: absolute;
+  font-family: 'Poppins';
+  color: white; 
+  left: 67%;
+  text-align: center;
+  margin-top: 6%;
+}
 
 
 /* Text component rendered after button click */
